@@ -1,6 +1,6 @@
 <div align=center>
   <h1>Hi there 👋</h1>
-  <p>I am Scipiuus and I'm just trying to learn some programming.</p>
+  <p>I am Scipiuus and I'm just trying to learn a few things.</p>
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=rounded&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=rounded&logo=c%2B%2B&logoColor=white" alt="C++" />
